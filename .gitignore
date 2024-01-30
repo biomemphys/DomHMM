@@ -1,3 +1,4 @@
 *-checkpoint.ipynb
 *.xtc_offsets.lock
 *.xtc_offsets.npz
+.DS_Store
